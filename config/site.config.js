@@ -7,7 +7,7 @@ module.exports = {
   // Make sure this is exactly the same as the email address you use to sign into your Microsoft account.
   // You can also put this in your Vercel's environment variable 'NEXT_PUBLIC_USER_PRINCIPLE_NAME' if you worry about
   // your email being exposed in public.
-  userPrincipalName: process.env.NEXT_PUBLIC_USER_PRINCIPLE_NAME || 'abelbobby@228wpr.onmicrosoft.com',
+  userPrincipalName: process.env.NEXT_PUBLIC_USER_PRINCIPLE_NAME || 'anand@z5xfn.onmicrosoft.com',
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "Abelindex",
+  title: "Anandindex",
 
   // The folder that you are to share publicly with Chiheisen-Vercel-Index. Use '/' if you want to share your root folder.
   baseDirectory: '/',
@@ -38,7 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by <a href="https://github.com/Abelboby/1drivefork" target="_blank" rel="noopener noreferrer">Abel-Index-Model</a>. Made with ❤ by myself bruh!.',
+    'Powered by <a href="https://github.com/anandshaji679322/1drivefork" target="_blank" rel="noopener noreferrer">Anand-Index-Model</a>. Made with ❤ by myself bruh!.',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/Abelboby/1drivefork',
+      link: 'https://github.com/anandshaji679322/1drivefork',
     },
   ],
 
